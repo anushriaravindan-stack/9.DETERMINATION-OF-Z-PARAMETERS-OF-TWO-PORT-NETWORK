@@ -29,14 +29,22 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
  
 
 **CIRCUIT DIAGRAM:**
+<img width="1600" height="900" alt="WhatsApp Image 2026-06-01 at 10 25 50 AM" src="https://github.com/user-attachments/assets/1c4bbdb1-795a-4a57-b8f4-9e5e83f919eb" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-06-01 at 10 26 05 AM" src="https://github.com/user-attachments/assets/5f1a0f34-2290-467f-88c4-040e364a27b3" />
+
 
 
 
 **TABULATION:**
 
+<img width="1600" height="900" alt="WhatsApp Image 2026-06-01 at 10 27 06 AM" src="https://github.com/user-attachments/assets/3351c647-e41a-4f92-8cc3-deb3e5ce6c79" />
 
+<img width="1600" height="900" alt="WhatsApp Image 2026-06-01 at 10 27 20 AM" src="https://github.com/user-attachments/assets/d4507acd-44c3-4bfd-8d0b-30cad46d9607" />
+**CALCULATION:**
 
+<img width="900" height="1600" alt="WhatsApp Image 2026-06-01 at 10 27 19 AM" src="https://github.com/user-attachments/assets/d410e2cf-a44f-469f-b331-6aef86396d87" />
 
+<img width="900" height="1600" alt="WhatsApp Image 2026-06-01 at 10 29 37 AM" src="https://github.com/user-attachments/assets/904aebc2-9834-4a2c-aaed-dd10198dcb7f" />
 
 
 **PROCEDURE:**
@@ -48,6 +56,9 @@ d)	Calculate the values of Z parameter using Equation (1) &(2).
 e)	Switch ‘OFF’ the supply after taking thereadings.
 
 **Mark split up:**
+
+<img width="900" height="1600" alt="WhatsApp Image 2026-06-01 at 10 27 20 AM (1)" src="https://github.com/user-attachments/assets/cd1b90f2-26d5-4510-b35b-3a8c29706e04" />
+
 
 
 **RESULT:**
